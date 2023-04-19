@@ -120,7 +120,7 @@ header i{
     justify-content: center;
     align-items: center;
 }
-.scroll__icon:after{
+.scroll__icon::after{
     content:'';
     width:4px;
     height:5.9px;
